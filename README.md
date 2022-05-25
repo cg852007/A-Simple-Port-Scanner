@@ -3,14 +3,14 @@
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-My first project, a simple port scanner using Python.
+My first project, a simple port scanner using Python. This port scanner will allow user to specify a target, make requests to every port, and return open ports.
 <br />
 
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Python 3.10 (64-bit)</b> 
-- <b>PyCharm Community Edition 2022.1</b>
+- <b>Python 3.10.4 (64-bit)</b> 
+- <b>Libraries: pyfiglet</b>
 
 <h2>Environments Used </h2>
 
